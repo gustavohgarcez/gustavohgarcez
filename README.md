@@ -1,4 +1,5 @@
-## Olá, eu sou o Gustavo Garcez, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG!
+# Gustavo Garcez
+## Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Goiás em 2023.
 
 <div align="center">
   <a href="https://github.com/gustavohgarcez">
